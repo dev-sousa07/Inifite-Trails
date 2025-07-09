@@ -1,4 +1,4 @@
-# 🏃‍♀️ Trilha Infinita
+# 🏃‍♀️ Infinite Trails
 
 **Trilha Infinita** é um jogo estilo *infinite runner* desenvolvido com Unity.  
 O jogador percorre trilhas naturais infinitas enquanto coleta objetos e desvia de obstáculos. A cada nova partida, o desafio aumenta com a geração contínua de cenário e obstáculos.
