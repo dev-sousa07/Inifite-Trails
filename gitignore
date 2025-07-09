@@ -1,0 +1,17 @@
+[Li]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+UserSerrings/
+MemoryCaptures/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+.DS_Store
+Thumbs.db
+*.unitypackage
+*.Package
